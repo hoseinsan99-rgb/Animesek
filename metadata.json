@@ -1,0 +1,8 @@
+{
+  "name": "AnimeSek Home",
+  "description": "An advanced AI-powered anime universe for social interaction, character chat, voting, and community engagement with a cyberpunk aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
